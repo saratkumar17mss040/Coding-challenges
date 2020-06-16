@@ -62,3 +62,15 @@ Create Array of numeric, complex, logical, character types of length 6. - simple
 28.Write a javaScript program to get the statistical summary and nature of the data of a given 2Dimensional array. - statsData.js
 
 29.Write a javaScript program to extract specific column from a object using property name - extractColumn.js
+
+30.Write a javaScript program to extract 3rd and 5th rows with 1st and 3rd columns from a given 2D Array - extractElements.js
+
+31.Write a javaScript program to add a new column in a given 2D Array. -addColumn.js
+
+32.Write a javaScript program to drop column(s) by name from a given 2D Array. -dropColumn.js
+
+33.Write a javaScript program to replace NaN values with 3 in a given 2D Array. -replaceNan.js
+
+34.Write a javaScript program to change more than one column name for a given 2D Array. -randomNumbers.js
+
+35.Write a javaScript program to find elements which are present in two given 2D Array.-intersection.js

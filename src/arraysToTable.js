@@ -3,7 +3,7 @@ const attributes = ['name', 'age'];
 const data1 = ['a', 20];
 const data2 = ['b', 22];
 const data3 = ['c', 23];
-const data4 = ['d', 36];
+// const data4 = ['d', 36];
 
 const finalArray = [attributes, data1, data2, data3];
 

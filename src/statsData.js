@@ -1,14 +1,14 @@
 // this program is just a baisc implementation of categorizing data based on statistics.
-// we can do data viusalization using D3.js in javaScript for these data.
+// we can do data visualization using D3.js in javaScript for these data.
 // numberic data in the array represents the measured weight of a person for each person.
 const allTypesOfData = [['name', 'nationality', 75, 74, 76, 73]];
 
 const ordinalScaleforAverageWeight = [
-  'much greater than normal',
-  'greater than normal',
-  'normal',
-  'lower than normal',
   'much lower than normal',
+  'lower than normal',
+  'normal',
+  'greater than normal',
+  'much greater than normal',
 ];
 
 const nominalData = [];
