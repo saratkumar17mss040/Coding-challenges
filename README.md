@@ -74,3 +74,19 @@ Create Array of numeric, complex, logical, character types of length 6. - simple
 34.Write a javaScript program to change more than one column name for a given 2D Array. -randomNumbers.js
 
 35.Write a javaScript program to find elements which are present in two given 2D Array.-intersection.js
+
+36.Write a javaScript program to count the number of NaN values in a 2D Array. -countNan.js
+
+37.Write a javaScript program to create an Object containing strings, numbers, Arrays and a logical values. - objectCollection.js
+
+38.Write a javaScript program to convert a given 2D Array to an object by rows. - arrayToObject.js
+
+39.Write a javaScript program to convert a given matrix to an Object. - matrixToObject.js
+
+40.Write a javaScript program to assign NULL to the given Object values - objectToNull.js
+
+41.Write a javaScript program to Add 10 to each element of the first Array in a given list - addTen.js
+
+42.Write a javaScript program to extract all elements except the third element of the first Array in a given Object - exceptThirdElement.js
+
+43.Write a javaScript program to assign new names "a", "b" and "c" to the elements of a given Object.
