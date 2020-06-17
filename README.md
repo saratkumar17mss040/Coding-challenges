@@ -23,7 +23,7 @@ Create Array of numeric, complex, logical, character types of length 6. - simple
 
 9.Write a javaScript program to sort a Array in ascending and descending order. - sort.js
 
-10.Write a javaScript program to test whether a given Array contains a specified element - findElement.js
+10.Write a javaScript program to test whether a given Array contains a specified element. - findElement.js
 
 11.Write a javaScript program to count the specific value in a given Array. - findCount.js
 
@@ -47,7 +47,7 @@ Create Array of numeric, complex, logical, character types of length 6. - simple
 
 21.Write a javaScript program to count the number of values in a range in a given Array.- noOfvaluesInaRange.js
 
-22.Write a javaScript program to convert two columns of a object to a named Array -nestedObjectToArray.js
+22.Write a javaScript program to convert two columns of a object to a named Array. -nestedObjectToArray.js
 
 23.Write a javaScript program to create an Array and find the length and the dimension of the Array. -findDimension.js
 
@@ -61,9 +61,9 @@ Create Array of numeric, complex, logical, character types of length 6. - simple
 
 28.Write a javaScript program to get the statistical summary and nature of the data of a given 2Dimensional array. - statsData.js
 
-29.Write a javaScript program to extract specific column from a object using property name - extractColumn.js
+29.Write a javaScript program to extract specific column from a object using property name. - extractColumn.js
 
-30.Write a javaScript program to extract 3rd and 5th rows with 1st and 3rd columns from a given 2D Array - extractElements.js
+30.Write a javaScript program to extract 3rd and 5th rows with 1st and 3rd columns from a given 2D Array. - extractElements.js
 
 31.Write a javaScript program to add a new column in a given 2D Array. -addColumn.js
 
@@ -83,10 +83,16 @@ Create Array of numeric, complex, logical, character types of length 6. - simple
 
 39.Write a javaScript program to convert a given matrix to an Object. - matrixToObject.js
 
-40.Write a javaScript program to assign NULL to the given Object values - objectToNull.js
+40.Write a javaScript program to assign NULL to the given Object values. - objectToNull.js
 
-41.Write a javaScript program to Add 10 to each element of the first Array in a given list - addTen.js
+41.Write a javaScript program to Add 10 to each element of the first Array in a given list. - addTen.js
 
-42.Write a javaScript program to extract all elements except the third element of the first Array in a given Object - exceptThirdElement.js
+42.Write a javaScript program to extract all elements except the third element of the first Array in a given Object. - exceptThirdElement.js
 
-43.Write a javaScript program to assign new names "a", "b" and "c" to the elements of a given Object.
+43.Write a javaScript program to assign new properties "a", "b" and "c" to the elements of a given Object. - newNames.js
+
+44.Write a javaScript program to access the element at 3rd column and 2nd row, only the 3rd row and only the 4th column of a given matrix. - retrieveElements.js
+
+45.Write a javaScript program to create two 2x3 matrix and add, subtract, multiply and divide the matrixes. -basicArrayMath.js
+
+46.Write a javaScript program to create a correlation matrix from a dataframe of same data type.
