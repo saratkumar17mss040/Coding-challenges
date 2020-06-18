@@ -18,7 +18,7 @@ const quotes = [
 // function randomQuotes
 // @param Array
 // @return String
-const randomQuotes = (quotes) => quotes[Math.floor(Math.random() * quotes.length)];
+const randomQuotes = quotes => quotes[Math.floor(Math.random() * quotes.length)];
 
 console.log('Random quote generator');
 console.log(randomQuotes(quotes));

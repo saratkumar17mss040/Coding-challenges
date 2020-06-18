@@ -9,7 +9,7 @@ const arr = [
 // function matrixToObject which converts every elements to Object values
 // @param - Array
 // @return Object
-const matrixToObject = (arr) => {
+const matrixToObject = arr => {
   let object = {};
   let prop = 0;
   for (let i = 0; i < arr.length; i++) {

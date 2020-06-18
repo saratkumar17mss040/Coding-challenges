@@ -1,7 +1,7 @@
 // 2d Array
 const arr1 = [
-  ['shankar', 'sam', 9],
-  ['bk', 1, 2, 3],
+  ['a', 'b', 9],
+  ['c', 1, 2, 3],
 ];
 
 const arr2 = [2, 34, 5];

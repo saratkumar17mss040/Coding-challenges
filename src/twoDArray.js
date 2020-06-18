@@ -1,5 +1,7 @@
-// function desiredArray generates n - number of arrays / dimensions
-const desiredArray = (number) => {
+// function desiredArray generates n - number of arrays 
+// @param - number
+// @return - Array
+const desiredArray = number => {
   let arr;
   for (let i = 0; i < number; i++) {
     if (i == 0) arr = [];

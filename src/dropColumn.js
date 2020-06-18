@@ -7,7 +7,7 @@ const arr = [
 
 // function dropColumn
 // @param number
-const dropColumn = (number) => {
+const dropColumn = number => {
   for (let i = 1; i <= number; i++) arr.shift(arr[i]);
 };
 

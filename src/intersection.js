@@ -13,7 +13,7 @@ let arr2 = [
 // function flatten
 // @param Array
 // @return flattenArray
-const flatten = (arr) => {
+const flatten = arr => {
   const flat = [].concat(...arr);
   return flat.some(Array.isArray) ? flatten(flatten) : flat;
 };

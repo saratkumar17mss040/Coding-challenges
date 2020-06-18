@@ -1,8 +1,8 @@
 // Main Object
 let object = {
-  0: 'sam',
+  0: 's',
   1: 155,
-  2: 'gg',
+  2: 'g',
   3: 16.4,
 };
 

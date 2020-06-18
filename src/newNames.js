@@ -15,42 +15,26 @@ console.log(a, b, c);
 console.log('Before assigning new properties to the object');
 console.log(object);
 
-// replacing old property name with new names - a,b,c - second way
-let keyLength = Object.keys(object).length;
-let actualKeys = Object.keys(object);
-let oldObjectValues = Object.values(object);
-
-for (let i = 0; i < keyLength; i++) {
-    let unicodeValue = 97;
-    let newProperty = String.fromCharCode(unicodeValue);
-    unicodeValue++;
-    let oldProperty = actualKeys[i];
-    object[newProperty] = object[oldProperty];
-    delete object[oldProperty];
-}
- 
-// for (let i = 0; i < keyLength; i++) {
-//     for (let j = 97; j <= 122; j++) {
-//         let firstLetter = String.fromCharCode(j);
-//         let oldProperty = actualKeys[i];
-//         object[firstLetter] = object[oldProperty];
-//         delete object[oldProperty];
-//         object[firstLetter] = 
-//   }
-// }
+object.a = object.d;
+delete object.d;
+object.b = object.e;
+delete object.e;
+object.c = object.f;
+delete object.f;
 
 console.log('After assigning new properties to the object');
 console.log(object);
 
-// const ob = {
-//   name: 'sam',
-//   age: 22,
-// };
+// replacing old property name with new names - a,b,c - second way
+// let keyLength = Object.keys(object).length;
+// let actualKeys = Object.keys(object);
+// let oldObjectValues = Object.values(object);
 
-// console.log(ob);
-// ob.newName = ob.name;
-// console.log(Object.keys(ob)[0]);
-// delete ob.name;
-// ob.newAge = ob.age;
-// delete ob.age;
-// console.log(ob);
+// for (let i = 0; i < keyLength; i++) {
+//     let unicodeValue = 97;
+//     let newProperty = String.fromCharCode(unicodeValue);
+//     unicodeValue++;
+//     let oldProperty = actualKeys[i];
+//     object[newProperty] = object[oldProperty];
+//     delete object[oldProperty];
+// }

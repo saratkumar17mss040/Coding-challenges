@@ -1,4 +1,4 @@
-const arr = [1, '1', 23, 4, 5, 6, 'sarnith', 'sam'];
+const arr = [1, '1', 23, 4, 5, 6, 's', 'm'];
 
 // Array.reverse() method
 console.log(arr.reverse());

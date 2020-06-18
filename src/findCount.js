@@ -1,4 +1,4 @@
-const array = [1, 2, 'shankar', 'barath', 'shankar', 'iws'];
+const array = [1, 2, 's', 'b', 's', 'iws'];
 
 // function findCount
 function findCount(element) {
@@ -10,4 +10,4 @@ function findCount(element) {
   return count;
 }
 
-console.log(findCount('shankar'));
+console.log(findCount('s'));

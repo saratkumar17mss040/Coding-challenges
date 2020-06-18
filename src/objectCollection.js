@@ -1,7 +1,7 @@
 // main Object
 const object = {
   names: {
-    name1: 'sam',
+    name1: 'c',
     name2: 'a',
     name3: 'b',
   },

@@ -12,7 +12,7 @@ function join() {
   return finalArray;
 }
 
-console.log(join(arr1, arr2, arr3));
+console.log(join(arr1,arr2,arr3));
 
 // concatenating three arrays
 console.log(arr1.concat(arr2).concat(arr3));

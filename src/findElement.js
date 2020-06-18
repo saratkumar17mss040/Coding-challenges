@@ -1,4 +1,4 @@
-const array = [1, 2, 'shankar', 'barath', 's', 'iws'];
+const array = [1, 2, 's', 'b', 's', 'iws'];
 
 // function findElement
 function findElement(element) {
