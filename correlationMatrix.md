@@ -36,9 +36,9 @@
 
 4. Code for creating the histogram
 
-   ```javascript 
+   ```javascript
    <script>
-   // set the dimensions and margins of the graph
+   <!--set the dimensions and margins of the graph -->
    var margin = {top: 10, right: 30, bottom: 30, left: 40},
    width = 460 - margin.left - margin.right,
    height = 400 - margin.top - margin.bottom;
@@ -58,7 +58,8 @@
    // X axis: scale and draw:
    var x = d3.scaleLinear()
     .domain([-4,9])
-    // can use this instead of 1000 to have the max of data: d3.max(data, function(d) { return +d.price })
+    // can use this instead of 1000 to have the max of data:
+    d3.max(data, function(d) { return +d.price })
     .range([0, width]);
     svg.append("g")
     .attr("transform", "translate(0," + height + ")")
