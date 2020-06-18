@@ -7,7 +7,7 @@ const arr = [
 
 // function changeColumn
 // @param number
-const changeColumn = (column) => {
+const changeColumn = column => {
   for (let i = 0; i < arr.length; i++) {
     for (let j = 0; j < column; j++) {
       arr[i][j] = Math.round(Math.random() * 100);
@@ -15,5 +15,6 @@ const changeColumn = (column) => {
   }
 };
 
-changeColumn(2);
+const changeColumnUptoThatColunmindex = 1;
+changeColumn(changeColumnUptoThatColunmindex);
 console.log(arr);

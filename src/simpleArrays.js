@@ -11,7 +11,7 @@ const characterArray = ['h', 'e', 'l', 'l', 'o', ':)'];
 // @param Array
 // @return String - Not pure number!
 // works only for simple complex numbers
-const addComplexNumber = (arr) => {
+const addComplexNumber = arr => {
   let realNum = 0,
     imgNum = 0;
   for (let i = 0; i < arr.length; i++) {

@@ -51,7 +51,7 @@ Create Array of numeric, complex, logical, character types of length 6. - simple
 
 23.Write a javaScript program to create an Array and find the length and the dimension of the Array. -findDimension.js
 
-24.Write a javaScript program to combine two given Arrays by columns, rows. - combineArrays.js
+24.Write a javaScript program to combine four given Arrays by columns, rows. - combineArrays.js
 
 25.Write a javaScript program to test whether the value of the element of a given Array greater than 10 or not. return TRUE or FALSE. - greaterThanTenOrNot.js
 
@@ -61,13 +61,13 @@ Create Array of numeric, complex, logical, character types of length 6. - simple
 
 28.Write a javaScript program to get the statistical summary and nature of the data of a given 2Dimensional array. - statsData.js
 
-29.Write a javaScript program to extract specific column from a object using property name. - extractColumn.js
+29.Write a javaScript program to extract specific property from a object using property name. - extractColumn.js
 
 30.Write a javaScript program to extract 3rd and 5th rows with 1st and 3rd columns from a given 2D Array. - extractElements.js
 
-31.Write a javaScript program to add a new column in a given 2D Array. -addColumn.js
+31.Write a javaScript program to add a new row in a given 2D Array. -addRow.js
 
-32.Write a javaScript program to drop column(s) by name from a given 2D Array. -dropColumn.js
+32.Write a javaScript program to drop column(s) by name from a given 2D Array. -dropRow.js
 
 33.Write a javaScript program to replace NaN values with 3 in a given 2D Array. -replaceNan.js
 
@@ -85,7 +85,7 @@ Create Array of numeric, complex, logical, character types of length 6. - simple
 
 40.Write a javaScript program to assign NULL to the given Object values. - objectToNull.js
 
-41.Write a javaScript program to Add 10 to each element of the first Array in a given list. - addTen.js
+41.Write a javaScript program to Add 10 to each element of any Array to the given number of properties. - addTen.js
 
 42.Write a javaScript program to extract all elements except the third element of the first Array in a given Object. - exceptThirdElement.js
 

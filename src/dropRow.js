@@ -14,6 +14,6 @@ const dropColumn = number => {
 let numberOfColumnsToDrop = 2;
 dropColumn(numberOfColumnsToDrop);
 console.log(
-  `After removing ${numberOfColumnsToDrop} columns the array is =`,
+  `After removing ${numberOfColumnsToDrop} rows from the array is =`,
   arr
 );
