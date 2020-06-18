@@ -95,4 +95,12 @@ Create Array of numeric, complex, logical, character types of length 6. - simple
 
 45.Write a javaScript program to create two 2x3 matrix and add, subtract, multiply and divide the matrixes. -basicArrayMath.js
 
-46.Write a javaScript program to create a correlation matrix from a dataframe of same data type.
+46.Write a javaScript program to create a correlation matrix from a 2D Array of same data type. -correlationMatrix.js -d3.txt
+
+47.Write a javaScript program to create an array of two 3x3 matrices each with 3 rows and 3 columns from given two Objects. - threeCrossThree.js
+
+48.Write a javaScript program to convert a given matrix to a 1D array. - flatten.js
+
+49.Write a javaScript program to create an array of specified number of rows and columns - rowsColumns.js
+
+50.Write a javaScript program to generate random quotes - randomQuotes.js
