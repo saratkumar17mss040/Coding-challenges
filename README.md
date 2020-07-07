@@ -104,3 +104,11 @@ Create Array of numeric, complex, logical, character types of length 6. - simple
 49.Write a javaScript program to create an array of specified number of rows and columns - rowsColumns.js
 
 50.Write a javaScript program to generate random quotes - randomQuotes.js
+
+51.Write a javaScript program to check whether a given number is prime number or not - primeOrNot.js
+
+52.Write a javaScript program to generate prime numbers based on the given upper bound and lower bound  - rangeOfPrimes.js
+
+53.Write a javaScript program to generate prime numbers based on the given upper bound - rangeOfPrimesUpperBound.js
+
+54.Write a javaScript program to generate prime factors based on the given given number - primeFactors.js
